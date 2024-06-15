@@ -1,7 +1,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhvODFyZGNhOGx0eWRoZzhjbWQ4dHd2bWs1OGg4b2xleXEyMzJ3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VGuAZNdkPUpEY/giphy.gif" height="300px" width="100%" />
 <h1 align="center">My name is Davide 👋</h1>
 
-<h3 align="center">I’m from Italy, I’m 19 years old and I’m currently studying computer science at the University of L'Aquila</h3>
+<h3 align="center">I’m from Italy, I’m 20 years old and I’m currently studying computer science at the University of L'Aquila</h3>
 
 <br>
 
